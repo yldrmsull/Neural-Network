@@ -34,3 +34,12 @@ VGG19 Sonuç:
 
 
 ![vgg19results](https://user-images.githubusercontent.com/36545904/71921954-fbf3b980-319a-11ea-84a7-3b3bc5e72cbf.PNG)
+
+
+
+
+
+
+
+
+[![HitCount](http://hits.dwyl.com/yldrmsull/Neural-Network.svg)](http://hits.dwyl.com/yldrmsull/Neural-Network)
