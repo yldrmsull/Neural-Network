@@ -41,5 +41,4 @@ VGG19 Sonuç:
 
 
 
-
 [![HitCount](http://hits.dwyl.com/yldrmsull/Neural-Network.svg)](http://hits.dwyl.com/yldrmsull/Neural-Network)
